@@ -1,4 +1,4 @@
-# Screening: Resume Classification Using SVM and TF-IDF
+# AI -based Resume Screening
 
 This repository contains a machine learning pipeline to classify resumes into job categories based on their content. The project uses TF-IDF vectorization and a Support Vector Machine (SVM) classifier trained on a curated resume dataset. It supports prediction directly from PDF resume files.
 
