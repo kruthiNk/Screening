@@ -8,7 +8,7 @@ from sklearn.feature_extraction import text
 import joblib
 
 # Load data
-df = pd.read_csv("resumes.csv")  # Ensure the file has 'Resume' and 'Category'
+df = pd.read_csv("UpdatedResumeDataSet.csv")  # Ensure the file has 'Resume' and 'Category'
 
 # Clean text function
 def clean_text(text_data):
