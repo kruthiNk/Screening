@@ -1,0 +1,16 @@
+Classification Report on Test Set:
+                  precision    recall  f1-score   support
+
+    Data Science       1.00      1.00      1.00        10
+ DevOps Engineer       1.00      0.91      0.95        11
+              HR       1.00      1.00      1.00        13
+          Hadoop       1.00      1.00      1.00         7
+  Java Developer       1.00      1.00      1.00        13
+Python Developer       1.00      1.00      1.00         7
+           Sales       1.00      1.00      1.00         7
+         Testing       0.95      1.00      0.98        21
+   Web Designing       1.00      1.00      1.00         5
+
+        accuracy                           0.99        94
+       macro avg       0.99      0.99      0.99        94
+    weighted avg       0.99      0.99      0.99        94
